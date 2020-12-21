@@ -1,0 +1,81 @@
+.plan_back{
+    height: 560px;
+    background-image: url(../images/simpo.png);
+    background-repeat: no-repeat;
+    opacity: 1;
+    background-size: cover;
+}
+.menu{
+    background-color:white;
+    opacity: 0.4;
+}
+.col-lg-10{
+    margin-left: 35%;
+    margin-top: -5%;
+}
+button{
+    border:none;
+}
+.center-m{
+    margin-top: 4em;
+}
+.center-m span{
+    font-size: 2em;
+}
+.center-s{
+    margin-top: 2em;
+}
+.center-d span{
+    font-size: 2em;
+    margin-left: -4em;
+}
+.center-s span{
+    font-size:1.5em;
+}
+.center-1 span{
+    margin-left: -2em;
+}
+.center-f{
+    font-size: 1.5em;
+}
+.center-a{
+    font-size: 1.5em;
+}
+.grey{
+    height: 200px;
+    background-color: gray;
+}
+.center-b{
+    font-size: 1.5em;
+}
+.center-e span{
+    font-size: 2em;
+}
+.gray{
+    height: 640px;
+    background-color: gray;
+    
+}
+.bot-a{
+    font-size: 1.4em;
+    border-bottom: 7px solid rgb(190, 10, 10);
+}
+.but{
+    margin-left: em;
+}
+#search{
+    background:url('../images/loupe.png') right no-repeat;
+    outline: none;
+    padding-left: 10px;
+    transition: width 2s;
+    -webkit-transition: width 2s;
+    -moz-transition: width 2s;
+    -o-transition: width 2s;
+    -ms-transition: width 2s;
+}
+#search:focus{
+    width: 200px;
+}
+.cas{
+    margin-left: 14em;
+}
