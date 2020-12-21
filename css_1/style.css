@@ -3,7 +3,7 @@
     background-image: url(../images/simpo.png);
     background-repeat: no-repeat;
     opacity: 1;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 .menu{
     background-color:white;
